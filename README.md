@@ -1,7 +1,6 @@
-# Llama3.1-Vision
+# Llama-3.1-Carrot 🥕
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/644bf6ef778ecbfb977e8e84/3D-oR8GazhHTaA-kVLNDk.png)
-
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/644bf6ef778ecbfb977e8e84/CnBrFpd5auE9sgMNXfI_t.png)
 
 ## Running Inference:
 **Minimum requirements to run Inference is an A100 40GB GPU.**
